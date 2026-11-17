@@ -1,0 +1,12 @@
+{
+  "name": "diancai-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "对象点菜网页：她点菜，我照单做",
+  "scripts": {
+    "start": "node tools/serve.mjs 5173",
+    "test": "node tools/test.mjs",
+    "live": "node tools/live-check.mjs"
+  }
+}
